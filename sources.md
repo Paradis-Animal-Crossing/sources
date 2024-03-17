@@ -29,6 +29,7 @@ Voici les sources que nous pouvons utiliser afin de vous fournir un service de q
 - https://api.nookipedia.com
 - https://horizons-fan.fr/
 - [ACNH News](https://bento.me/acnhnews)
+- https://www.margxt.fr/
 ## Sources
 - [All images (Credit to ElChicoEevee and Alexis)](https://drive.google.com/drive/folders/1XSLItEbUltVep8qP6691AAPg6EXf_DUR)
 - [All item names (Credit to imthe666st)](https://pastebin.com/rk4sW0GA)
