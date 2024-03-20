@@ -45,6 +45,6 @@ Voici les sources que nous pouvons utiliser afin de vous fournir un service de q
 - [Claude 3 Haiku](https://www.anthropic.com/claude)
 - [Claude 3 Sonnet](https://www.anthropic.com/claude)
 - [Claude 3 Opus](https://www.anthropic.com/claude)
-- [Gemini](https://gemini.google.com/)
+- [Gemini](https://deepmind.google/technologies/gemini/)
 - [Microsoft Copilot](https://www.microsoft.com/fr-fr/copilot)
 - [Perplexity AI](https://www.perplexity.ai/)
