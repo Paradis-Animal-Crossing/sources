@@ -37,6 +37,7 @@ Voici les sources que nous pouvons utiliser afin de vous fournir un service de q
 - [Villager House Exteriors (Rendered by SuperSpazzy)](https://drive.google.com/drive/folders/1E-583QgftqFKe4hhHiSB5bMfO73UjCSz)
 ## AI
 - [Mixtral 8x7B](https://mistral.ai/fr/news/mixtral-of-experts/)
+- [Mixtral 8x22B](https://mistral.ai/fr/technology/#models)
 - [ChatGPT 3.5](https://openai.com/blog/chatgpt)
 - [ChatGPT 3.5 16K](https://platform.openai.com/docs/models/overview)
 - [Claude-instant](https://www.anthropic.com/claude)
