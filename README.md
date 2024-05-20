@@ -47,16 +47,25 @@
 - [Item translations (Maintained by Alexis)](https://drive.google.com/drive/folders/1E-583QgftqFKe4hhHiSB5bMfO73UjCSz)
 - [Villager House Exteriors (Rendered by SuperSpazzy)](https://drive.google.com/drive/folders/1E-583QgftqFKe4hhHiSB5bMfO73UjCSz)
 ## AI
+### Mistral
 - [Mixtral 8x7B](https://mistral.ai/fr/news/mixtral-of-experts/)
 - [Mixtral 8x22B](https://mistral.ai/fr/technology/#models)
-- [ChatGPT 3.5](https://openai.com/blog/chatgpt)
-- [ChatGPT 3.5 16K](https://platform.openai.com/docs/models/overview)
+### OpenAI
+- [GPT-3.5](https://openai.com/blog/chatgpt)
+- [GPT-3.5 16K](https://platform.openai.com/docs/models/overview)
+- [GPT-4o](https://openai.com/index/hello-gpt-4o/)
+### Anthropic
 - [Claude-instant](https://www.anthropic.com/claude)
 - [Claude-instant-100k](https://www.anthropic.com/claude)
 - [Claude-2-100k](https://www.anthropic.com/claude)
 - [Claude 3 Haiku](https://www.anthropic.com/claude)
 - [Claude 3 Sonnet](https://www.anthropic.com/claude)
 - [Claude 3 Opus](https://www.anthropic.com/claude)
+### Google
 - [Gemini](https://deepmind.google/technologies/gemini/)
-- [Microsoft Copilot](https://www.microsoft.com/fr-fr/copilot)
-- [Perplexity AI](https://www.perplexity.ai/)
+### Microsoft
+- [Copilot](https://www.microsoft.com/fr-fr/copilot)
+### Cohere
+- [Command R+](https://cohere.com/command)
+### Perplexity AI
+- [Perplexity](https://www.perplexity.ai/)
