@@ -47,6 +47,8 @@
 - [Item translations (Maintained by Alexis)](https://drive.google.com/drive/folders/1E-583QgftqFKe4hhHiSB5bMfO73UjCSz)
 - [Villager House Exteriors (Rendered by SuperSpazzy)](https://drive.google.com/drive/folders/1E-583QgftqFKe4hhHiSB5bMfO73UjCSz)
 ## AI
+### DeepSeek
+- [DeepSeek](https://www.deepseek.com/)
 ### Meta
 - [Llama-3-8B](https://llama.meta.com/llama3/)
 - [Llama-3-70B](https://llama.meta.com/llama3/)
