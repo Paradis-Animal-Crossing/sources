@@ -47,6 +47,7 @@
 - [Item translations (Maintained by Alexis)](https://drive.google.com/drive/folders/1E-583QgftqFKe4hhHiSB5bMfO73UjCSz)
 - [Villager House Exteriors (Rendered by SuperSpazzy)](https://drive.google.com/drive/folders/1E-583QgftqFKe4hhHiSB5bMfO73UjCSz)
 ## AI
+- [Grok](https://grok.com/)
 - [DeepSeek](https://www.deepseek.com/)
 - [Llama](https://www.llama.com/)
 - [Mistral](https://mistral.ai/)
